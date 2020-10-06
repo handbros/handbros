@@ -6,4 +6,4 @@
  
  ### My Projects
   * __PASS(Program Automated Scoring System) v2__ : Online judge engine made of C#(at work).
-  * __TransPick__ : a screen translator application(It is Aborted until .NET 5 is released.).
+  * __TransPick__ : a screen translator application(It is aborted until .NET 5 is released.).
