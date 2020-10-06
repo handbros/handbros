@@ -5,5 +5,5 @@
   * Software Developer at Game Developing Club in Gangbuk High School.
  
  ### My Projects
-  * __PASS(Program Automated Scoring System)__ : Online judge engine made of C#.
-  * __TransPick__ : a screen translator application.
+  * __PASS(Program Automated Scoring System) v2__ : Online judge engine made of C#(at work).
+  * __TransPick__ : a screen translator application(It is Aborted until .NET 5 is released.).
