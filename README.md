@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junimiso04@naver.com)](mailto:junimiso04@naver.com)
 
  ### Software Developer
-  * Chief Software Developer at Three Seconds.
+  * Enjoying freedom
  
  ### My Projects
   * __PASS(Program Automated Scoring System) v2__ : Online judge engine made of C#(at work).
