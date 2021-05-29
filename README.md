@@ -8,7 +8,6 @@
  ### My Projects
   * __Pomodoro__ : The simple pomodoro timer developed with WPF and MVVM pattern.
   * __my_school__ : The assistant application for student in South Korea.
- * * *
   * __Bandit (archived)__ : The NAVER Band automatic attender.
-  * __MView (aborted)__ : The RPG Maker MV/MZ Resource Editor.
-  * __PASS (aborted)__ : The online judge engine.
+  * __MView v2(aborted)__ : The RPG Maker MV/MZ Resource Editor.
+  * __PASS v2(aborted)__ : The online judge engine.
