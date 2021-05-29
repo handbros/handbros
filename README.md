@@ -1,9 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunimiso04&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junimiso04@naver.com)](mailto:junimiso04@naver.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhandbros&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/badge/C Sharp-95478E?style=flat-square&logo=C-Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-06589C?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-95478E?style=flat-square&logo=Visual-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
 
  ### Software Developer
   * Enjoying freedom
  
  ### My Projects
-  * __PASS(Program Automated Scoring System) v2__ : Online judge engine made of C#(at work).
-  * __TransPick__ : a screen translator application(It is aborted until .NET 5 is released.).
+  * __Pomodoro__ : The simple pomodoro timer developed with WPF and MVVM pattern.
+  * __my_school__ : The assistant application for student in South Korea.
+ * * *
+  * __Bandit (archived)__ : The NAVER Band automatic attender.
+  * __MView (aborted)__ : The RPG Maker MV/MZ Resource Editor.
+  * __PASS (aborted)__ : The online judge engine.
