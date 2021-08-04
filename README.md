@@ -13,4 +13,4 @@
  * __PASS v2 (aborted)__ : The online judge engine.
 
 ### Contacts
- * e-mail : [junimiso04@naver.com](mailto:junimiso04@naver.com)
+ * e-mail : [hexstudio16@gmail.com](mailto:hexstudio16@gmail.com)
