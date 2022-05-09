@@ -6,11 +6,13 @@
 Now Studying...  (ﾟДﾟ*)ﾉ
  
 ### My Projects
- * __MView v2 (aborted)__ : The RPG Maker MV/MZ Resource Editor.
- * __PASS v2 (aborted)__ : The online judge engine.
+ * __MView v2 (archived)__ : The RPG Maker MV/MZ Resource Editor.
  * __Pomodoro (archived)__ : The simple pomodoro timer developed with WPF and MVVM pattern.
  * __my_school (archived)__ : The assistant application for student in South Korea.
  * __Bandit (archived)__ : The NAVER Band automatic attender.
+ * __OpenJ2J (archived)__ : The opensource implementation of the J2J format.
+ * __J2JBreaker (archived)__ : The password breaker for J2J format.
+ * __PASS v2 (aborted)__ : The online judge engine.
 
 ### Contacts
  * e-mail : [hexstudio16@gmail.com](mailto:hexstudio16@gmail.com)
