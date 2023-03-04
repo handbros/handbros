@@ -3,5 +3,5 @@
 💻 I'm a student developer :D</br>
 
 ## Status
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=handbros)](https://solved.ac/profile/handbros)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=handbros&theme=warm)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junimiso04)](https://solved.ac/profile/junimiso04)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=junimiso04&theme=warm)
