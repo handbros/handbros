@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
   <p>
     <table width="100%">
       <th>NAME</th>
-	    <th>DESCRIPTION</th>
+      <th>DESCRIPTION</th>
       <th>STARTED IN</th>
       <th>TECHNOLOGIES</th>
       <tr>
@@ -84,7 +84,7 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
 
   <h4>:computer: &nbsp;Software and Tools</h4>
   <p>
-        <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Illustrator-orange?style=flat-square&logo=adobeillustrator&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Illustrator-orange?style=flat-square&logo=adobeillustrator&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Photoshop-royalblue?style=flat-square&logo=adobephotoshop&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-limegreen?style=flat-square&logo=android&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/git-orangered?style=flat-square&logo=git&logoColor=white">
@@ -103,3 +103,7 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
 
 ---
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=handbros&style=flat-square&label=Views">
+  <img src="https://badges.pufler.dev/visits/handbros/handbros?color=black&style=flat-square">
+</p>
