@@ -11,7 +11,8 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
 ---
 
 <details> 
-  <summary><h3>:card_index_dividers: &nbsp;My Projects</h3></summary>
+  <summary><b>:card_index_dividers: &nbsp;My Projects</b></summary>
+
   <p>
     <table width="100%">
       <th>NAME</th>
@@ -38,8 +39,8 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
 </details>
 
 <details> 
-  <summary><h3>:hammer: &nbsp;My Development Tools</h3></summary>
-
+  <summary><b>:hammer: &nbsp;My Development Tools</b></summary>
+  
   <h4>:keyboard: &nbsp;Programming and Markup Languages</h4>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white">
@@ -94,7 +95,8 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
 </details>
 
 <details> 
-  <summary><h3>:chart_with_upwards_trend: &nbsp;GitHub Statistics</h3></summary>
+  <summary><b>:chart_with_upwards_trend: &nbsp;GitHub Statistics</b></summary>
+  <br>
   <p>
     <img alt="overview" src="https://raw.githubusercontent.com/handbros/github-stats-transparent/output/generated/overview.svg">
     <img alt="languages" src="https://raw.githubusercontent.com/handbros/github-stats-transparent/output/generated/languages.svg">
