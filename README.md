@@ -2,11 +2,40 @@
 
 I am a versatilist and easily adapt to different hats (:computer:Desktop App Developer, :iphone: Mobile App Developer, :globe_with_meridians: Full Stack Web Developer, :brain:ML Engineer) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs.
 
-### :laughing: &nbsp;About Me
+## :laughing: &nbsp;More About Me
  * :classical_building: &nbsp;I'm currently attending at Department of Computer Engineering, Yeungnam University.
  * :anchor: &nbsp;I'm the founder at [@root-square](https://github.com/root-square) and [@kotran-io](https://github.com/kotran-io).
  * :speech_balloon: &nbsp;I like to talk about .NET and various web technologies.
  * :mailbox: &nbsp;You can contact me by [e-mail](mailto:junimiso04@naver.com).
+
+---
+
+<details> 
+  <summary><h3>:card_index_dividers: &nbsp;My Projects</h3></summary>
+  <p>
+    <table width="100%">
+      <th>NAME</th>
+	    <th>DESCRIPTION</th>
+      <th>STARTED IN</th>
+      <th>TECHNOLOGIES</th>
+      <tr>
+        <td align="center">
+          <img alt="kotran" src="https://github.com/kotran-io/kotran-assets/blob/main/images/symbol/symbol_colored.svg" height="36">
+          <p><b>Kotran</b></p>
+        </td>
+        <td>
+          Kotran is an open source neural machine translator.
+        </td>
+        <td align="center">
+          June, 2023
+        </td>
+        <td>
+          Next.js, Node.js, ONNX Runtime, OpenNMT, PyTorch, React
+        </td>
+      </tr>
+    </table>
+  </p>
+</details>
 
 <details> 
   <summary><h3>:hammer: &nbsp;My Development Tools</h3></summary>
@@ -61,10 +90,6 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
     <img alt="Static Badge" src="https://img.shields.io/badge/git-orangered?style=flat-square&logo=git&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-darkviolet?style=flat-square&logo=visualstudio&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-dodgerblue?style=flat-square&logo=visualstudiocode&logoColor=white">
-
-
-
-
   </p>
 </details>
 
@@ -75,3 +100,6 @@ I am a versatilist and easily adapt to different hats (:computer:Desktop App Dev
     <img alt="languages" src="https://raw.githubusercontent.com/handbros/github-stats-transparent/output/generated/languages.svg">
   </p>
 </details>
+
+---
+
