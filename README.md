@@ -4,6 +4,7 @@ I am a versatilist and easily adapt to different hats (:computer: Desktop App De
 
 ## :laughing: &nbsp;More About Me
  * :classical_building: &nbsp;I'm currently attending at Department of Computer Engineering, Yeungnam University.
+ * :spiral_calendar: &nbsp;I'm scheduled to serve in the Republic of Korea Air Force from 2024 to 2025.
  * :anchor: &nbsp;I'm the founder at [@root-square](https://github.com/root-square) and [@kotran-io](https://github.com/kotran-io).
  * :speech_balloon: &nbsp;I like to talk about .NET and various web technologies.
  * :mailbox: &nbsp;You can contact me by [e-mail](mailto:junimiso04@naver.com).
