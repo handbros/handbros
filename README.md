@@ -1,6 +1,6 @@
 # Hi, there! :wave:
 
-I am a versatilist and easily adapt to different hats (:computer:Desktop App Developer, :iphone: Mobile App Developer, :globe_with_meridians: Full Stack Web Developer, :brain:ML Engineer) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs.
+I am a versatilist and easily adapt to different hats (:computer: Desktop App Developer, :iphone: Mobile App Developer, :globe_with_meridians: Full Stack Web Developer, :brain: ML Engineer) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs.
 
 ## :laughing: &nbsp;More About Me
  * :classical_building: &nbsp;I'm currently attending at Department of Computer Engineering, Yeungnam University.
