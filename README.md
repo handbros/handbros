@@ -1,3 +1,16 @@
-## Hi There 👋 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhandbros&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
+# Hi, there! :wave:
 
-💻 I'm a student developer :D</br>
+I am a versatilist and easily adapt to different hats (:computer:Desktop App Developer, :iphone: Mobile App Developer, :globe_with_meridians: Full Stack Web Developer, :brain:ML Engineer) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs.
+
+### :laughing: &nbsp;About Me
+ * :classical_building: &nbsp;I'm currently attending at Department of Computer Engineering, Yeungnam University.
+ * :anchor: &nbsp;I'm the founder at [@root-square](https://github.com/root-square) and [@kotran-io](https://github.com/kotran-io).
+ * :speech_balloon: &nbsp;I like to talk about .NET and various web technologies.
+ * :mailbox: &nbsp;You can contact me by [e-mail](mailto:junimiso04@naver.com).
+
+### :hammer: &nbsp;Languages and Tools
+
+
+### :chart_with_upwards_trend: &nbsp;GitHub Statistics
+![Stats Overview](https://raw.githubusercontent.com/handbros/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/handbros/github-stats-transparent/output/generated/languages.svg)
