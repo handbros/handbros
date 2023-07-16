@@ -66,7 +66,6 @@ I am a versatilist and easily adapt to different hats (:computer: Desktop App De
     <img alt="Static Badge" src="https://img.shields.io/badge/.NET-darkviolet?style=flat-square&logo=.net&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Electron-blue?style=flat-square&logo=electron&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-dodgerblue?style=flat-square&logo=flutter&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions-black?style=flat-square&logo=githubactions&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-forestgreen?style=flat-square&logo=numpy&logoColor=white">
@@ -80,8 +79,15 @@ I am a versatilist and easily adapt to different hats (:computer: Desktop App De
     <img alt="Static Badge" src="https://img.shields.io/badge/AWS-orangered?style=flat-square&logo=amazonaws&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Cloudflare-orange?style=flat-square&logo=cloudflare&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat-square&logo=github&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-forestgreen?style=flat-square&logo=mongodb&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-midnightblue?style=flat-square&logo=mysql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Realm-darkviolet?style=flat-square&logo=realm&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-steelblue?style=flat-square&logo=sqlite&logoColor=white">
+  </p>
+
+  <h4>:factory: &nbsp;Continuous Integration and Continuous Delivery</h4>
+  <p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions-black?style=flat-square&logo=githubactions&logoColor=white">
   </p>
 
   <h4>:computer: &nbsp;Software and Tools</h4>
